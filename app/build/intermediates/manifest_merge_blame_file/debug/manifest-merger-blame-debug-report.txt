@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.prueba2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
+10
+11    <queries>
+11-->[androidx.media:media:1.4.1] /home/jj-tena/.gradle/caches/transforms-3/5aae262051415ccf2cb93f606c1c6374/transformed/media-1.4.1/AndroidManifest.xml:24:5-28:15
+12        <intent>
+12-->[androidx.media:media:1.4.1] /home/jj-tena/.gradle/caches/transforms-3/5aae262051415ccf2cb93f606c1c6374/transformed/media-1.4.1/AndroidManifest.xml:25:9-27:18
+13            <action android:name="android.media.browse.MediaBrowserService" />
+13-->[androidx.media:media:1.4.1] /home/jj-tena/.gradle/caches/transforms-3/5aae262051415ccf2cb93f606c1c6374/transformed/media-1.4.1/AndroidManifest.xml:26:13-79
+13-->[androidx.media:media:1.4.1] /home/jj-tena/.gradle/caches/transforms-3/5aae262051415ccf2cb93f606c1c6374/transformed/media-1.4.1/AndroidManifest.xml:26:21-76
+14        </intent>
+15    </queries>
+16
+17    <application
+17-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:5:5-40:19
+18        android:allowBackup="true"
+18-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.6.0] /home/jj-tena/.gradle/caches/transforms-3/77368fcbe74f28065fdfe7b340d83da3/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_imagen1"
+21-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:7:9-42
+22        android:label="@string/app_name"
+22-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:8:9-41
+23        android:roundIcon="@mipmap/ic_imagen1_round"
+23-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:9:9-53
+24        android:supportsRtl="true"
+24-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:10:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" >
+26-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:11:9-74
+27        <activity
+27-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:12:9-14:40
+28            android:name="com.example.prueba2.CrearCarpeta"
+28-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:13:13-41
+29            android:exported="false" />
+29-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:14:13-37
+30        <activity
+30-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:15:9-17:40
+31            android:name="com.example.prueba2.listaIdeas"
+31-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:16:13-39
+32            android:exported="false" />
+32-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:17:13-37
+33        <activity
+33-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:18:9-20:40
+34            android:name="com.example.prueba2.SelectAddIdea"
+34-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:19:13-42
+35            android:exported="false" />
+35-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:20:13-37
+36        <activity
+36-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:21:9-23:39
+37            android:name="com.example.prueba2.CrearIdea"
+37-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:22:13-38
+38            android:exported="true" />
+38-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:23:13-36
+39        <activity
+39-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:24:9-32:20
+40            android:name="com.example.prueba2.MainActivity"
+40-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:25:13-41
+41            android:exported="true" >
+41-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:26:13-36
+42            <intent-filter>
+42-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:27:13-31:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:28:17-69
+43-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:28:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:30:17-77
+45-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:30:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity android:name="com.example.prueba2.GestorIdeas" />
+48-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:33:9-49
+48-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:33:19-46
+49        <activity android:name="com.example.prueba2.verIdea" />
+49-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:34:9-45
+49-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:34:19-42
+50        <activity android:name="com.example.prueba2.Filtrar" />
+50-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:35:9-45
+50-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:35:19-42
+51        <activity android:name="com.example.prueba2.editarIdea" />
+51-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:36:9-48
+51-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:36:19-45
+52        <activity android:name="com.example.prueba2.DeleteFolder" />
+52-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:37:9-49
+52-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:37:19-47
+53        <activity android:name="com.example.prueba2.SelectDeleteIdeas" />
+53-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:38:9-54
+53-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:38:19-52
+54        <activity android:name="com.example.prueba2.ActualizarInfo" />
+54-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:39:9-51
+54-->/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:39:19-49
+55    </application>
+56
+57</manifest>

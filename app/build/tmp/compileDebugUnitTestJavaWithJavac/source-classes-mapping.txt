@@ -1,0 +1,2 @@
+com/example/prueba2/ExampleUnitTest.java
+ com.example.prueba2.ExampleUnitTest

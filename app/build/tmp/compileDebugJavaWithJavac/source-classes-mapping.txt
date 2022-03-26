@@ -1,0 +1,64 @@
+com/example/prueba2/DeleteFolder.java
+ com.example.prueba2.DeleteFolder
+ com.example.prueba2.DeleteFolder$1
+com/example/prueba2/Saver.java
+ com.example.prueba2.Saver
+com/example/prueba2/MainActivity.java
+ com.example.prueba2.MainActivity
+ com.example.prueba2.MainActivity$1
+ com.example.prueba2.MainActivity$2
+ com.example.prueba2.MainActivity$3
+com/example/prueba2/verIdea.java
+ com.example.prueba2.verIdea
+com/example/prueba2/listaIdeas.java
+ com.example.prueba2.listaIdeas
+ com.example.prueba2.listaIdeas$1
+com/example/prueba2/GestorIdeas.java
+ com.example.prueba2.GestorIdeas
+ com.example.prueba2.GestorIdeas$1
+ com.example.prueba2.GestorIdeas$2
+com/example/prueba2/SelectAddIdea.java
+ com.example.prueba2.SelectAddIdea
+ com.example.prueba2.SelectAddIdea$1
+com/example/prueba2/CrearCarpeta.java
+ com.example.prueba2.CrearCarpeta
+ com.example.prueba2.CrearCarpeta$1
+com/example/prueba2/SelectDeleteIdeas.java
+ com.example.prueba2.SelectDeleteIdeas
+ com.example.prueba2.SelectDeleteIdeas$1
+com/example/prueba2/RecyclerItemClickListener.java
+ com.example.prueba2.RecyclerItemClickListener
+ com.example.prueba2.RecyclerItemClickListener$1
+ com.example.prueba2.RecyclerItemClickListener$OnItemClickListener
+com/example/prueba2/Filtrar.java
+ com.example.prueba2.Filtrar
+ com.example.prueba2.Filtrar$1
+com/example/prueba2/ActualizarInfo.java
+ com.example.prueba2.ActualizarInfo
+ com.example.prueba2.ActualizarInfo$1
+com/example/prueba2/editarIdea.java
+ com.example.prueba2.editarIdea
+ com.example.prueba2.editarIdea$1
+ com.example.prueba2.editarIdea$2
+ com.example.prueba2.editarIdea$3
+ com.example.prueba2.editarIdea$4
+com/example/prueba2/CrearIdea.java
+ com.example.prueba2.CrearIdea
+ com.example.prueba2.CrearIdea$1
+com/example/prueba2/ItemsAdapter.java
+ com.example.prueba2.ItemsAdapter
+ com.example.prueba2.ItemsAdapter$ItemsViewHolder
+ com.example.prueba2.ItemsAdapter$ItemsViewHolder$1
+ com.example.prueba2.ItemsAdapter$OnItemClickListener
+com/example/prueba2/Sistema.java
+ com.example.prueba2.Sistema
+ com.example.prueba2.Sistema$1
+ com.example.prueba2.Sistema$2
+ com.example.prueba2.Sistema$User
+ com.example.prueba2.Sistema$User$Carpeta
+ com.example.prueba2.Sistema$User$Idea
+com/example/prueba2/CustomAdapter.java
+ com.example.prueba2.CustomAdapter
+ com.example.prueba2.CustomAdapter$ContactHolder
+com/example/prueba2/BuildConfig.java
+ com.example.prueba2.BuildConfig

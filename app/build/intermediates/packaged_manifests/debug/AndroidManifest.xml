@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.prueba2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="31" />
+
+    <queries>
+        <intent>
+            <action android:name="android.media.browse.MediaBrowserService" />
+        </intent>
+    </queries>
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_imagen1"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_imagen1_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.MaterialComponents.Light.NoActionBar" >
+        <activity
+            android:name="com.example.prueba2.CrearCarpeta"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prueba2.listaIdeas"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prueba2.SelectAddIdea"
+            android:exported="false" />
+        <activity
+            android:name="com.example.prueba2.CrearIdea"
+            android:exported="true" />
+        <activity
+            android:name="com.example.prueba2.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.prueba2.GestorIdeas" />
+        <activity android:name="com.example.prueba2.verIdea" />
+        <activity android:name="com.example.prueba2.Filtrar" />
+        <activity android:name="com.example.prueba2.editarIdea" />
+        <activity android:name="com.example.prueba2.DeleteFolder" />
+        <activity android:name="com.example.prueba2.SelectDeleteIdeas" />
+        <activity android:name="com.example.prueba2.ActualizarInfo" />
+    </application>
+
+</manifest>
