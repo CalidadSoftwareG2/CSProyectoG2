@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/values-night/themes.xml",
+                    "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

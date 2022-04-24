@@ -1,2 +1,6 @@
 com/example/prueba2/ExampleUnitTest.java
  com.example.prueba2.ExampleUnitTest
+com/example/prueba2/smokeTest/SignupTest.java
+ com.example.prueba2.smokeTest.SignupTest
+com/example/prueba2/smokeTest/LoginTest.java
+ com.example.prueba2.smokeTest.LoginTest

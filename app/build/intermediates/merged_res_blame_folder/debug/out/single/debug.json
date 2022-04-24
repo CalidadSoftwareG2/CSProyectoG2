@@ -1,222 +1,222 @@
 [
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_imagen1.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-mdpi/ic_imagen1.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/menu_menu.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/menu/menu.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_select_add_idea.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_select_add_idea.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_imagen1_foreground.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xhdpi/ic_imagen1_foreground.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_select_delete_ideas.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_select_delete_ideas.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/drawable_ic_baseline_done_24.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/drawable/ic_baseline_done_24.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_select_delete_folder.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_select_delete_folder.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_filtrar.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_filtrar.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_lista_ideas.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_lista_ideas.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/drawable_ic_baseline_delete_24.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/drawable/ic_baseline_delete_24.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_lista_items.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/lista_items.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_imagen1_round.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-hdpi/ic_imagen1_round.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_imagen1_foreground.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xxxhdpi/ic_imagen1_foreground.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_imagen1.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xhdpi/ic_imagen1.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_lista_ideas.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_lista_ideas.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/menu_menu_idea.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/menu/menu_idea.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_select_delete_folder.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_select_delete_folder.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_ayuda.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_ayuda.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/menu_menu_idea.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/menu/menu_idea.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_imagen1_foreground.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-mdpi/ic_imagen1_foreground.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/drawable_rectangles.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/drawable/rectangles.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_crear_idea.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_crear_idea.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_imagen1_round.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-anydpi-v26/ic_imagen1_round.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/drawable_botones.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/drawable/botones.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_imagen1_round.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-hdpi/ic_imagen1_round.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_ayuda.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_ayuda.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_gestor.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_gestor.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_imagen1.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xhdpi/ic_imagen1.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_imagen1_foreground.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xxhdpi/ic_imagen1_foreground.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_imagen1_round.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xhdpi/ic_imagen1_round.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_editar_idea.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_editar_idea.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_imagen1_foreground.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xxhdpi/ic_imagen1_foreground.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_imagen1_round.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xxxhdpi/ic_imagen1_round.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_ver_idea.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/ver_idea.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/drawable_ic_baseline_delete_24.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/drawable/ic_baseline_delete_24.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_imagen1_round.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-anydpi-v26/ic_imagen1_round.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_editar_idea.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_editar_idea.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_text_row_item.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/text_row_item.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_select_add_idea.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_select_add_idea.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_actualizar_perfil.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_actualizar_perfil.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_crear_carpeta.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_crear_carpeta.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_imagen1_round.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xxxhdpi/ic_imagen1_round.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_imagen1_foreground.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xxxhdpi/ic_imagen1_foreground.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_select_delete_ideas.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_select_delete_ideas.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/menu_menu_filtrar.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/menu/menu_filtrar.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/drawable_ic_imagen1_background.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/drawable/ic_imagen1_background.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/drawable_botones.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/drawable/botones.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_imagen1_foreground.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-mdpi/ic_imagen1_foreground.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_imagen1.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-hdpi/ic_imagen1.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/drawable_ic_baseline_add_24.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/drawable/ic_baseline_add_24.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/menu_menu.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/menu/menu.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/drawable_rectangles.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/drawable/rectangles.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_imagen1_round.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-mdpi/ic_imagen1_round.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_imagen1.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-mdpi/ic_imagen1.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_lista_items.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/lista_items.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/drawable_ic_baseline_add_24.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/drawable/ic_baseline_add_24.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_text_row_item.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/text_row_item.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_imagen1_round.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-mdpi/ic_imagen1_round.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_imagen1_round.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xhdpi/ic_imagen1_round.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_imagen1.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-anydpi-v26/ic_imagen1.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_filtrar.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_filtrar.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_crear_carpeta.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_crear_carpeta.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/drawable_ic_baseline_done_24.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/drawable/ic_baseline_done_24.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_crear_idea.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_crear_idea.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/drawable_ic_imagen1_background.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/drawable/ic_imagen1_background.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_imagen1_round.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xxhdpi/ic_imagen1_round.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_imagen1.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-anydpi-v26/ic_imagen1.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_imagen1.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xxhdpi/ic_imagen1.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/menu_menu_filtrar.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/menu/menu_filtrar.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_imagen1.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xxhdpi/ic_imagen1.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_imagen1_round.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xxhdpi/ic_imagen1_round.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_ver_idea.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/ver_idea.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_imagen1.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xxxhdpi/ic_imagen1.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_imagen1_foreground.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xhdpi/ic_imagen1_foreground.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_imagen1.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-hdpi/ic_imagen1.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_imagen1.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-xxxhdpi/ic_imagen1.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_imagen1_foreground.png.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-hdpi/ic_imagen1_foreground.png"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_imagen1_foreground.png.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/mipmap-hdpi/ic_imagen1_foreground.png"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/build/intermediates/merged_res/debug/layout_activity_gestor.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/res/layout/activity_gestor.xml"
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_actualizar_perfil.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_actualizar_perfil.xml"
     }
 ]

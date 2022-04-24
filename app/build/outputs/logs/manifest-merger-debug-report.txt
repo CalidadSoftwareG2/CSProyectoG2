@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:2:1-42:12
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:2:1-42:12
 MERGED from [com.github.yukuku:ambilwarna:2.0.1] /home/jj-tena/.gradle/caches/transforms-3/852f9c236010ae2f03a4cc9ce902ba9a/transformed/jetified-ambilwarna-2.0.1/AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.material:material:1.4.0] /home/jj-tena/.gradle/caches/transforms-3/25012fcc08d4c5cf5a2844c1a21a6fbe/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/jj-tena/.gradle/caches/transforms-3/81808270a5cc0559f2b9db87cb315b87/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
@@ -43,25 +43,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/jj-tena/.gradle/cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/jj-tena/.gradle/caches/transforms-3/8ca7186ef83368b8549809152ed428ce/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/jj-tena/.gradle/caches/transforms-3/485578c608519582fc751ff2f7c88476/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/jj-tena/.gradle/caches/transforms-3/437e772228a813b0fd4bde3f8ec9dd31/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:2:1-42:12
 	package
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:3:5-34
-		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
-		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:2:1-42:12
-		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:2:1-42:12
-		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:5:5-40:19
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:5:5-40:19
 MERGED from [com.google.android.material:material:1.4.0] /home/jj-tena/.gradle/caches/transforms-3/25012fcc08d4c5cf5a2844c1a21a6fbe/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] /home/jj-tena/.gradle/caches/transforms-3/25012fcc08d4c5cf5a2844c1a21a6fbe/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/jj-tena/.gradle/caches/transforms-3/81808270a5cc0559f2b9db87cb315b87/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
@@ -73,89 +73,89 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/jj-te
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /home/jj-tena/.gradle/caches/transforms-3/77368fcbe74f28065fdfe7b340d83da3/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:9:9-53
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:9:9-53
 	android:icon
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:7:9-42
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:7:9-42
 	android:allowBackup
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:11:9-74
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:11:9-74
 activity#com.example.prueba2.CrearCarpeta
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:12:9-14:40
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:12:9-14:40
 	android:exported
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:14:13-37
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:13:13-41
 activity#com.example.prueba2.listaIdeas
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:15:9-17:40
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:15:9-17:40
 	android:exported
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:17:13-37
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:16:13-39
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:16:13-39
 activity#com.example.prueba2.SelectAddIdea
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:18:9-20:40
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:18:9-20:40
 	android:exported
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:20:13-37
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:19:13-42
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:19:13-42
 activity#com.example.prueba2.CrearIdea
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:21:9-23:39
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:21:9-23:39
 	android:exported
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:23:13-36
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:22:13-38
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:22:13-38
 activity#com.example.prueba2.MainActivity
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:24:9-32:20
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:24:9-32:20
 	android:exported
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:26:13-36
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:25:13-41
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:25:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:27:13-31:29
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:30:17-77
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:30:27-74
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:30:27-74
 activity#com.example.prueba2.GestorIdeas
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:33:9-49
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:33:9-49
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:33:19-46
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:33:19-46
 activity#com.example.prueba2.verIdea
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:34:9-45
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:34:9-45
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:34:19-42
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:34:19-42
 activity#com.example.prueba2.Filtrar
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:35:9-45
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:35:9-45
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:35:19-42
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:35:19-42
 activity#com.example.prueba2.editarIdea
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:36:9-48
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:36:9-48
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:36:19-45
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:36:19-45
 activity#com.example.prueba2.DeleteFolder
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:37:9-49
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:37:9-49
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:37:19-47
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:37:19-47
 activity#com.example.prueba2.SelectDeleteIdeas
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:38:9-54
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:38:9-54
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:38:19-52
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:38:19-52
 activity#com.example.prueba2.ActualizarInfo
-ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:39:9-51
+ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:39:9-51
 	android:name
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml:39:19-49
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml:39:19-49
 uses-sdk
-INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
-INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
+INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
+INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
 MERGED from [com.github.yukuku:ambilwarna:2.0.1] /home/jj-tena/.gradle/caches/transforms-3/852f9c236010ae2f03a4cc9ce902ba9a/transformed/jetified-ambilwarna-2.0.1/AndroidManifest.xml:8:5-10:41
 MERGED from [com.github.yukuku:ambilwarna:2.0.1] /home/jj-tena/.gradle/caches/transforms-3/852f9c236010ae2f03a4cc9ce902ba9a/transformed/jetified-ambilwarna-2.0.1/AndroidManifest.xml:8:5-10:41
 MERGED from [com.google.android.material:material:1.4.0] /home/jj-tena/.gradle/caches/transforms-3/25012fcc08d4c5cf5a2844c1a21a6fbe/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
@@ -234,16 +234,16 @@ MERGED from [androidx.print:print:1.0.0] /home/jj-tena/.gradle/caches/transforms
 MERGED from [androidx.print:print:1.0.0] /home/jj-tena/.gradle/caches/transforms-3/485578c608519582fc751ff2f7c88476/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/jj-tena/.gradle/caches/transforms-3/437e772228a813b0fd4bde3f8ec9dd31/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/jj-tena/.gradle/caches/transforms-3/437e772228a813b0fd4bde3f8ec9dd31/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
-INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
+INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
+INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
-		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
-		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
-		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
+		ADDED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/AndroidManifest.xml
 queries
 ADDED from [androidx.media:media:1.4.1] /home/jj-tena/.gradle/caches/transforms-3/5aae262051415ccf2cb93f606c1c6374/transformed/media-1.4.1/AndroidManifest.xml:24:5-28:15
 intent#action:name:android.media.browse.MediaBrowserService
