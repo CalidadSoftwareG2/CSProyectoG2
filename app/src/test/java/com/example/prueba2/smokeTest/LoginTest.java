@@ -2,16 +2,20 @@ package com.example.prueba2.smokeTest;
 
 import com.example.prueba2.Sistema;
 
+import org.junit.Before;
 import org.junit.Test;
+import org.mockito.Mock;
 
 import static org.junit.Assert.*;
 
 public class LoginTest {
 
-    private final Sistema sistema;
+    @Mock
+    private Sistema sistema;
 
-    public LoginTest(Sistema sistema) {
-        this.sistema = sistema;
+    @Before
+    public void setUp(){
+        sistema = new Sistema();
     }
 
     @Test

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.prueba2.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-24T15:30:07" hostname="jjtena-UX430UAR" time="0.003">
-  <properties/>
-  <testcase name="addition_isCorrect" classname="com.example.prueba2.ExampleUnitTest" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
