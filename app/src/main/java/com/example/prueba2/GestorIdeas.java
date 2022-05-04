@@ -159,9 +159,21 @@ public class GestorIdeas extends AppCompatActivity {
                 Intent k = new Intent(this, DeleteFolder.class);
                 startActivity(k);
                 break;
+            case R.id.BotonEliminarTodasCarpetas:
+                s.deleteAllCarpetas();
+                Sistema.guardarSistema();
+                k = new Intent(this, GestorIdeas.class);
+                startActivity(k);
+                break;
             case R.id.BotonEliminarIdea:
                 Intent x= new Intent(this, SelectDeleteIdeas.class);
                 startActivity(x);
+                break;
+            case R.id.BotonEliminarTodasIdeas:
+                s.deleteAllIdeas();
+                Sistema.guardarSistema();
+                k = new Intent(this, GestorIdeas.class);
+                startActivity(k);
                 break;
             case R.id.BotonAyuda:
                 setContentView(R.layout.activity_ayuda);
@@ -169,6 +181,12 @@ public class GestorIdeas extends AppCompatActivity {
             case R.id.BotonPerfil:
                 x= new Intent(this, ActualizarInfo.class);
                 startActivity(x);
+                break;
+            case R.id.BotonLogout:
+                s.logOut();
+                Sistema.guardarSistema();
+                k = new Intent(this, MainActivity.class);
+                startActivity(k);
                 break;
 
         }

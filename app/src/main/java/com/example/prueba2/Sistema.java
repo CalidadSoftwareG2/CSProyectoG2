@@ -42,6 +42,23 @@ public class Sistema implements Serializable {
         assert isLoged();
         return this.loggedUser.ideas;
     }
+
+    public boolean deleteAllCarpetas() {
+        if (isLoged()){
+            this.loggedUser.carpetas.clear();
+            return true;
+        }
+        return false;
+    }
+
+    public boolean deleteAllIdeas() {
+        if (isLoged()){
+            this.loggedUser.ideas.clear();
+            return true;
+        }
+        return false;
+    }
+
     
     @RequiresApi(api = Build.VERSION_CODES.N)
     public List<User.Idea> ordenarIdeasNombre(){
@@ -93,8 +110,12 @@ public class Sistema implements Serializable {
         return this.loggedUser;
     }
 
-    public void logOut() {
-        this.loggedUser=null;
+    public boolean logOut() {
+        if (isLoged()){
+            this.loggedUser=null;
+            return true;
+        }
+        return false;
     }
 
     public void addToCarpeta(User.Idea i) {
@@ -404,6 +425,8 @@ public class Sistema implements Serializable {
         }
         return s;
     }
+
+
 
     public void selectFolder(User.Carpeta c){
         this.selectedFolder=c;

@@ -4,7 +4,7 @@
             "outputFile": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
             "map": [
                 {
-                    "source": "/home/jj-tena/.gradle/caches/transforms-3/852f9c236010ae2f03a4cc9ce902ba9a/transformed/jetified-ambilwarna-2.0.1/res/values-xlarge-land/values-xlarge-land.xml",
+                    "source": "/home/jj-tena/.gradle/caches/transforms-3/031f1ea8e64687c64fb9abf145c4ca32/transformed/jetified-ambilwarna-2.0.1/res/values-xlarge-land/values-xlarge-land.xml",
                     "from": {
                         "startLines": "4,5",
                         "startColumns": "4,4",

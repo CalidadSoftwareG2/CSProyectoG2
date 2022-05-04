@@ -12,12 +12,12 @@
         "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_select_delete_ideas.xml"
     },
     {
-        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_select_delete_folder.xml.flat",
-        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_select_delete_folder.xml"
-    },
-    {
         "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_select_delete_folder.xml.flat",
+        "source": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/src/main/res/layout/activity_select_delete_folder.xml"
     },
     {
         "merged": "/home/jj-tena/Escritorio/2 CUATRIMESTRE/CALIDAD DE SOFTWARE/Codigo/Sprint2/CSProyectoG2/app/build/intermediates/merged_res/debug/layout_activity_lista_ideas.xml.flat",

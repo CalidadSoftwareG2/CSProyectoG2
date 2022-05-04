@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.media:media:1.4.1@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5aae262051415ccf2cb93f606c1c6374/transformed/media-1.4.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5e63bea584a448f3fe035803a217c22b/transformed/media-1.4.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5aae262051415ccf2cb93f606c1c6374/transformed/media-1.4.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5aae262051415ccf2cb93f606c1c6374/transformed/media-1.4.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5aae262051415ccf2cb93f606c1c6374/transformed/media-1.4.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5e63bea584a448f3fe035803a217c22b/transformed/media-1.4.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5e63bea584a448f3fe035803a217c22b/transformed/media-1.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5e63bea584a448f3fe035803a217c22b/transformed/media-1.4.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

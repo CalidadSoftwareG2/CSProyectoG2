@@ -22,6 +22,7 @@
         android:id="@+id/BotonIdea"
         android:icon="@drawable/ic_baseline_add_24"
         android:title="+Idea" />
+
     <item android:title="+Carpeta"
         android:id="@+id/BotonCarpeta"/>
 
@@ -29,13 +30,26 @@
         android:id="@+id/BotonEliminarCarpeta"/>
 
     <item
+        android:id="@+id/BotonEliminarTodasCarpetas"
+        android:title="Eliminar todas las carpeta" />
+
+    <item
         android:id="@+id/BotonEliminarIdea"
-        android:title="Eliminar Ideas" />
+        android:title="Eliminar Idea" />
+
+    <item
+        android:id="@+id/BotonEliminarTodasIdeas"
+        android:title="Eliminar todas las ideas" />
+
     <item
         android:id="@+id/BotonAyuda"
         android:title="Ayuda" />
     <item
         android:id="@+id/BotonPerfil"
         android:title="Actualizar perfil" />
+
+    <item
+        android:id="@+id/BotonLogout"
+        android:title="Cerrar sesión" />
 
 </menu>

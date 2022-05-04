@@ -2127,8 +2127,11 @@ id BotonAyuda
 id BotonCarpeta
 id BotonEliminarCarpeta
 id BotonEliminarIdea
+id BotonEliminarTodasCarpetas
+id BotonEliminarTodasIdeas
 id BotonFiltrar
 id BotonIdea
+id BotonLogout
 id BotonOrdenar
 id BotonPerfil
 id BotonPrioridad
